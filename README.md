@@ -38,9 +38,9 @@ https://github.com/giupolub/horizonte-do-saber
 
 ### 2. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/horizonte-do-saber-frontend.git
+git clone https://github.com/giupolub/horizonte-do-saber-frontend.git
 ou
-git clone git@github.com:giupolub/horizonte-do-saber.git
+git clone git@github.com:giupolub/horizonte-do-saber-frontend.git
 
 cd horizonte-do-saber-frontend
 ```
