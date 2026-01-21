@@ -29,7 +29,7 @@ O frontend consome uma **API REST** desenvolvida separadamente (backend em outro
 ### 🔹Pré-requisitos
 - Node.js 18+
 - npm
-- Docker (opcional)
+- Docker
 
 ### 1. Acessar o repositório com o backend e rodar o servidor
 ```bash
